@@ -1,17 +1,13 @@
-import Image from "next/image";
-
-import HeroSection from "@/components/hero-section";
-import Content from "@/components/content";
-import Feature from "@/components/feature";
-import Contact from "@/components/contact";
+import MainTitle from "@/components/MainTitle";
+import MeetTheTeam from "@/components/MeetTeam";
+import PeppermintFeatures from "@/components/PeppermintFeatures";
 
 export default function Home() {
   return (
     <main>
-      <HeroSection />
-      <Content />
-      <Feature />
-      <Contact />
+      <MainTitle />
+      <PeppermintFeatures />
+      <MeetTheTeam />
     </main>
   );
 }
