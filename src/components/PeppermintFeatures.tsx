@@ -5,9 +5,9 @@ const PeppermintFeatures = () => {
     <section className="text-gray-600 body-font">
       <div className="container px-5 py-24 mx-auto">
         <div className="text-center mb-20">
-          <h1 className="sm:text-3xl text-2xl font-medium title-font text-white mb-4">
+          <h1 className="sm:text-5xl text-2xl font-medium title-font text-white mb-4">
             Lets Get Fast, <i>Fast</i>.
-           </h1>
+          </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-white">
             Spotlighting import/export, open source, optimize your time
           </p>
@@ -16,7 +16,7 @@ const PeppermintFeatures = () => {
           </div>
         </div>
         <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
-          <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
+          <div className="p-4 md:w-1/3 flex flex-col text-center items-center "> 
             <div className="w-20 h-20 inline-flex items-center justify-center rounded-full bg-white text-blue-500 mb-5 flex-shrink-0">
               <svg
                 fill="none"
@@ -34,7 +34,7 @@ const PeppermintFeatures = () => {
               <h2 className="text-gray-900 text-lg title-font font-medium mb-3 text-white">
                 Optimize Your Time
               </h2>
-              <p className="leading-relaxed text-base text-white">
+              <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
                 Blue bottle crucifix vinyl post-ironic four dollar toast vegan
                 taxidermy. Gastropub indxgo juice poutine, ramps microdosing
                 banh mi pug VHS try-hard.
@@ -61,7 +61,7 @@ const PeppermintFeatures = () => {
               <h2 className="text-gray-900 text-lg title-font font-medium mb-3 text-white">
                 Easy Import/Export
               </h2>
-              <p className="leading-relaxed text-base text-white">
+              <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
                 Blue bottle crucifix vinyl post-ironic four dollar toast vegan
                 taxidermy. Gastropub indxgo juice poutine, ramps microdosing
                 banh mi pug VHS try-hard.
@@ -87,7 +87,7 @@ const PeppermintFeatures = () => {
               <h2 className="text-gray-900 text-lg title-font font-medium mb-3 text-white">
                 Open Source
               </h2>
-              <p className="leading-relaxed text-base text-white">
+              <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
                 Blue bottle crucifix vinyl post-ironic four dollar toast vegan
                 taxidermy. Gastropub indxgo juice poutine, ramps microdosing
                 banh mi pug VHS try-hard.
