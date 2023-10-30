@@ -13,13 +13,13 @@ const Header = () => {
           : "shadow-none"
       }`}
     >
-      <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-        <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-          <span className="ml-3 text-xl">PepperMint</span>
+      <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center ">
+        <a className="flex title-font font-medium items-center text-gray-100 mb-4 md:mb-0 ">
+          <h1 className="ml-3 text-xl">PepperMint</h1>
         </a>
         <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
         </nav>
-        <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">
+        <button className="inline-flex items-center bg-white text-blue-500 border-0 py-1 px-3 focus:outline-none hover:bg-blue-500 hover:text-white rounded text-base mt-4 md:mt-0">
           Github
           <svg
             fill="none"
