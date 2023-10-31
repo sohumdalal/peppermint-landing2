@@ -8,9 +8,6 @@ const PeppermintFeatures = () => {
           <h1 className="sm:text-5xl text-2xl font-medium title-font text-white mb-4">
             Lets Get Fast, <i>Fast</i>.
           </h1>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-white">
-            Spotlighting import/export, open source, optimize your time
-          </p>
           <div className="flex mt-6 justify-center">
             <div className="w-16 h-1 rounded-full bg-white inline-flex"></div>
           </div>
@@ -35,9 +32,7 @@ const PeppermintFeatures = () => {
                 Optimize Your Time
               </h2>
               <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+                PepperMint’s UI enables engineers to build tests with simple clicks, saving precious engineering time and recourses. With JEST built-in, PepperMint is optimized for speed and accuracy.
               </p>
             </div>
           </div>
@@ -62,9 +57,7 @@ const PeppermintFeatures = () => {
                 Easy Import/Export
               </h2>
               <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+                PepperMint allows you to import components fast, kicking off our robust parsing algorithm. You can finalize your test build, and add it right back into your file structure.
               </p>
             </div>
           </div>
@@ -88,9 +81,7 @@ const PeppermintFeatures = () => {
                 Open Source
               </h2>
               <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
-                Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                taxidermy. Gastropub indxgo juice poutine, ramps microdosing
-                banh mi pug VHS try-hard.
+                PepperMint is designed for the community, by the community. We are ready for contributions! Please reference our Github page for more information on the who, what, when.
               </p>
             </div>
           </div>
