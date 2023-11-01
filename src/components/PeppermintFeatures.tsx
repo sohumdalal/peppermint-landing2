@@ -32,7 +32,7 @@ const PeppermintFeatures = () => {
                 Optimize Your Time
               </h2>
               <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
-                PepperMint’s UI enables engineers to build tests with simple clicks, saving precious engineering time and recourses. With JEST built-in, PepperMint is optimized for speed and accuracy.
+                test test PepperMint’s UI enables engineers to build tests with simple clicks, saving precious engineering time and recourses. With JEST built-in, PepperMint is optimized for speed and accuracy.
               </p>
             </div>
           </div>
