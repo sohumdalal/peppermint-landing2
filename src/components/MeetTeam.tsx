@@ -16,7 +16,7 @@ const MeetTheTeam = () => {
           <div className="xl:w-1/2 md:w-1/2 p-12">
             <div className="border border-gray-200 p-6 rounded-lg">
               <h2 className="text-lg text-white font-medium title-font mb-2">
-                Aliya Salmanova
+                Aliya Salmanova | Software Engineer
               </h2>
               <div className="sm:ml-auto sm:mt-0 mt-4 flex">
                 <a href="https://www.linkedin.com/in/aliya-salmanova-4150711b6/">
@@ -46,7 +46,7 @@ const MeetTheTeam = () => {
           <div className="xl:w-1/2 md:w-1/2 p-12">
             <div className="border border-gray-200 p-6 rounded-lg">
               <h2 className="text-lg text-white font-medium title-font mb-2">
-                Edmund Wong
+                Edmund Wong | Software Engineer
               </h2>
               <div className="sm:ml-auto sm:mt-0 mt-4 flex">
                 <a href="https://www.linkedin.com/in/edmund-wong-8a0201291/">
@@ -76,7 +76,7 @@ const MeetTheTeam = () => {
           <div className="xl:w-1/2 md:w-1/2 p-12">
             <div className="border border-gray-200 p-6 rounded-lg">
               <h2 className="text-lg text-white font-medium title-font mb-2">
-                Nassim Bahet
+                Nassim Bahet | Software Engineer
               </h2>
               <div className="sm:ml-auto sm:mt-0 mt-4 flex">
                 <a href="https://www.linkedin.com/in/nassimbahet/">
@@ -106,7 +106,7 @@ const MeetTheTeam = () => {
           <div className="xl:w-1/2 md:w-1/2 p-12">
             <div className="border border-gray-200 p-6 rounded-lg">
               <h2 className="text-lg text-white font-medium title-font mb-2">
-                Sohum Dalal
+                Sohum Dalal | Software Engineer
               </h2>
               <div className="sm:ml-auto sm:mt-0 mt-4 flex">
                 <a href="https://www.linkedin.com/in/sohum-dalal-985076a6/">

@@ -13,12 +13,12 @@ const MainTitle = () => {
           </h1>
           <div className="flex justify-center">
             <a href="https://github.com/oslabs-beta/PepperMint">
-              <button className="inline-flex text-blue-500 bg-white border-0 py-2 px-6 focus:outline-none hover:bg-blue-500 hover:text-white rounded text-lg">
-                Github
+              <button className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-white hover:text-blue-500  rounded text-lg">
+                Download Now (Mac)
               </button>
             </a>
             <button className="ml-4 inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-white hover:text-blue-500  rounded text-lg">
-              Download Now
+              Download Now (Windows)
             </button>
           </div>
         </div>
