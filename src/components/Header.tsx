@@ -13,7 +13,6 @@ const Header = () => {
         }`}
     >
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center ">
-        <img src=""></img>
         <a className="flex title-font font-medium items-center text-gray-100 mb-4 md:mb-0 ">
           <h1 className="ml-3 text-4xl">PepperMint</h1>
         </a>
