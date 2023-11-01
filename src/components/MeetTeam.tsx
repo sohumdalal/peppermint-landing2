@@ -1,4 +1,6 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from "react";
+import Image from "next/image";
 
 const MeetTheTeam = () => {
   return (
@@ -12,12 +14,18 @@ const MeetTheTeam = () => {
             <div className="w-16 h-1 rounded-full bg-white inline-flex"></div>
           </div>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex -m-4">
           <div className="xl:w-1/2 md:w-1/2 p-12">
-            <div className="border border-gray-200 p-6 rounded-lg">
-              <h2 className="text-lg text-white font-medium title-font mb-2">
-                Aliya Salmanova | Software Engineer
-              </h2>
+            <div className="border border-gray-200 p-6 rounded-lg shadow-xl">
+              <Image
+                class="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
+                src="/Aliya.jpg" width={100}
+                height={100}
+                alt="image description">
+              </Image>
+              <br></br>
+              <h2 className="text-lg text-white font-medium title-font">Aliya Salmanova</h2>
+              <h3 className="text-md text-white font-light mb-2">Software Engineer</h3>
               <div className="sm:ml-auto sm:mt-0 mt-4 flex">
                 <a href="https://www.linkedin.com/in/aliya-salmanova-4150711b6/">
                   <svg
@@ -44,10 +52,17 @@ const MeetTheTeam = () => {
             </div>
           </div>
           <div className="xl:w-1/2 md:w-1/2 p-12">
-            <div className="border border-gray-200 p-6 rounded-lg">
-              <h2 className="text-lg text-white font-medium title-font mb-2">
-                Edmund Wong | Software Engineer
-              </h2>
+            <div className="border border-gray-200 p-6 rounded-l shadow-xl">
+              <Image
+                class="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
+                src="/Edmund.png"
+                width={100}
+                height={100}
+                alt="image description">
+              </Image>
+              <br></br>
+              <h2 className="text-lg text-white font-medium title-font">Edmund Wong</h2>
+              <h3 className="text-md text-white font-light mb-2">Software Engineer</h3>
               <div className="sm:ml-auto sm:mt-0 mt-4 flex">
                 <a href="https://www.linkedin.com/in/edmund-wong-8a0201291/">
                   <svg
@@ -74,10 +89,16 @@ const MeetTheTeam = () => {
             </div>
           </div>
           <div className="xl:w-1/2 md:w-1/2 p-12">
-            <div className="border border-gray-200 p-6 rounded-lg">
-              <h2 className="text-lg text-white font-medium title-font mb-2">
-                Nassim Bahet | Software Engineer
-              </h2>
+            <div className="border border-gray-200 p-6 rounded-lg shadow-xl">
+              <Image
+                class="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
+                src="/Nassim.jpg"
+                width={100}
+                height={100}
+                alt="image description"></Image>
+              <br></br>
+              <h2 className="text-lg text-white font-medium title-font">Nassim Bahet</h2>
+              <h3 className="text-md text-white font-light mb-2">Software Engineer</h3>
               <div className="sm:ml-auto sm:mt-0 mt-4 flex">
                 <a href="https://www.linkedin.com/in/nassimbahet/">
                   <svg
@@ -104,10 +125,17 @@ const MeetTheTeam = () => {
             </div>
           </div>
           <div className="xl:w-1/2 md:w-1/2 p-12">
-            <div className="border border-gray-200 p-6 rounded-lg">
-              <h2 className="text-lg text-white font-medium title-font mb-2">
-                Sohum Dalal | Software Engineer
-              </h2>
+            <div className="border border-gray-200 p-6 rounded-lg shadow-xl">
+              <Image
+                class="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
+                src="/Sohum.jpg"
+                width={100}
+                height={100}
+                alt="image description">
+              </Image>
+              <br></br>
+              <h2 className="text-lg text-white font-medium title-font">Sohum Dalal</h2>
+              <h3 className="text-md text-white font-light mb-2">Software Engineer</h3>
               <div className="sm:ml-auto sm:mt-0 mt-4 flex">
                 <a href="https://www.linkedin.com/in/sohum-dalal-985076a6/">
                   <svg
