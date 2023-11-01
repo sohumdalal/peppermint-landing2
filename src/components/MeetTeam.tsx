@@ -18,7 +18,7 @@ const MeetTheTeam = () => {
           <div className="xl:w-1/2 md:w-1/2 p-12">
             <div className="border border-gray-200 p-6 rounded-lg shadow-xl">
               <Image
-                class="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
+                className="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
                 src="/Aliya.jpg" width={100}
                 height={100}
                 alt="image description">
@@ -54,7 +54,7 @@ const MeetTheTeam = () => {
           <div className="xl:w-1/2 md:w-1/2 p-12">
             <div className="border border-gray-200 p-6 rounded-l shadow-xl">
               <Image
-                class="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
+                className="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
                 src="/Edmund.png"
                 width={100}
                 height={100}
@@ -91,7 +91,7 @@ const MeetTheTeam = () => {
           <div className="xl:w-1/2 md:w-1/2 p-12">
             <div className="border border-gray-200 p-6 rounded-lg shadow-xl">
               <Image
-                class="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
+                className="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
                 src="/Nassim.jpg"
                 width={100}
                 height={100}
@@ -127,7 +127,7 @@ const MeetTheTeam = () => {
           <div className="xl:w-1/2 md:w-1/2 p-12">
             <div className="border border-gray-200 p-6 rounded-lg shadow-xl">
               <Image
-                class="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
+                className="rounded-full w-60 h-60 max-w-lg mx-auto object-cover"
                 src="/Sohum.jpg"
                 width={100}
                 height={100}

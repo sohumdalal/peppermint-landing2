@@ -31,7 +31,7 @@ const PeppermintFeatures = () => {
               <h2 className="text-gray-900 text-lg title-font font-medium mb-3 text-white">
                 Optimize Your Time
               </h2>
-              <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
+              <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg shadow-xl">
                 PepperMint’s UI enables engineers to build tests with simple clicks, saving precious engineering time and recourses. With JEST built-in, PepperMint is optimized for speed and accuracy.
               </p>
             </div>
@@ -56,7 +56,7 @@ const PeppermintFeatures = () => {
               <h2 className="text-gray-900 text-lg title-font font-medium mb-3 text-white">
                 Easy Import/Export
               </h2>
-              <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
+              <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg shadow-xl">
                 PepperMint allows you to import components fast, kicking off our robust parsing algorithm. You can finalize your test build, and add it right back into your file structure.
               </p>
             </div>
@@ -80,7 +80,7 @@ const PeppermintFeatures = () => {
               <h2 className="text-gray-900 text-lg title-font font-medium mb-3 text-white">
                 Open Source
               </h2>
-              <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg">
+              <p className="leading-relaxed text-base text-white border border-gray-200 p-6 rounded-lg shadow-xl">
                 PepperMint is designed for the community, by the community. We are ready for contributions! Please reference our Github page for more information on the who, what, when.
               </p>
             </div>
