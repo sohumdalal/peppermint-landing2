@@ -17,9 +17,11 @@ const MainTitle = () => {
                 Download Now (Mac)
               </button>
             </a>
-            <button className="ml-4 inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-white hover:text-blue-500  rounded text-lg">
-              Download Now (Windows)
-            </button>
+            <a href="https://www.dropbox.com/scl/fi/4pmu05oakpc8huk4cn2zk/peppermint-win32-x64-1.0.0.zip?rlkey=bcacegtysqgaw60ecl6j7tbie&dl=1" download>
+              <button className="ml-4 inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-white hover:text-blue-500  rounded text-lg">
+                Download Now (Windows)
+              </button>
+            </a>
           </div>
         </div>
       </div>
