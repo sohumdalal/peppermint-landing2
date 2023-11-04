@@ -6,9 +6,10 @@
 @tailwind utilities;
 
 body {
-    background: rgb(204,133,133);
-    background: linear-gradient(180deg, rgba(204,133,133,1) 12%, hsl(191, 100%, 49%) 54%, rgba(2,133,205,1) 84%); 
+    background: rgb(204, 133, 133);
+    background: linear-gradient(180deg, rgba(204, 133, 133, 1) 12%, hsl(191, 100%, 49%) 54%, rgba(2, 133, 205, 1) 84%);
     font-family: "Dosis", sans-serif;
+    overflow-x: hidden;
 }
 
 h1 {

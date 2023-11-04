@@ -14,7 +14,7 @@ const MeetTheTeam = () => {
             <div className="w-16 h-1 rounded-full bg-white inline-flex"></div>
           </div>
         </div>
-        <div className="flex -m-4">
+        <div className="flex -m-4 justify-center">
           <div className="xl:w-1/2 md:w-1/2 p-12">
             <div className="border border-gray-200 p-6 rounded-lg shadow-xl">
               <Image
